@@ -12,6 +12,7 @@ body {
     padding: 0 45%;
     text-align: center;
     font-family: 'Abril Fatface';
+    color: #3c7ec1;
     background: #fcd5b5;
     
 }  
@@ -34,7 +35,7 @@ body {
   }
   
   #faq h1 {
-    color: #000;
+    color: #3c7ec1;
     margin-top: 0;
     background: #fcd5b5;
     font-size: 70px;
@@ -42,7 +43,7 @@ body {
   }
   
   #faq h2 {
-    color: #000;
+    color: #3c7ec1;
     font-family: 'poppins';
     font-size: 25px;
     line-height: 34px;
@@ -60,7 +61,7 @@ body {
   }
   
   #faq p {
-    color: #333;
+    color: #3c7ec1;
     text-align: left;
     font-family: 'poppins';
     font-size: 17px;
@@ -116,7 +117,7 @@ body {
   #faq ul li i:before, ul li i:after {
     content: "";
     position: absolute;
-    background-color: #000;
+    background-color: #3c7ec1;
     width: 3px;
     height: 9px;
   }
@@ -136,7 +137,7 @@ body {
     touch-action: manipulation;
   }
   #faq ul li input[type=checkbox]:checked ~ h2 {
-    color: #000;
+    color: #3c7ec1;
   }
   #faq ul li input[type=checkbox]:checked ~ p {
     /*margin-top: 0;*/
