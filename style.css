@@ -7,7 +7,20 @@ body {
     font-family: 'poppins';
     overflow: auto;
   }
-  
+  .button {
+    font-family: 'Montserrat';
+    width: 100%;
+    background: #3c7ec1;
+    border: 0;
+    cursor: pointer;
+    color: #fcd5b5;
+    font-size: 17px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    transition: all 0.3s;
+    margin-top: -4px;
+    font-weight: 700;
+  }
   #faq {
     margin: 0;
     padding: 0 45%;
