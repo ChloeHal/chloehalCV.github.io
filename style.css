@@ -10,16 +10,20 @@ body {
   .button {
     font-family: 'Montserrat';
     width: 100%;
-    background: #3c7ec1;
-    border: 0;
+    border: solid 1px #3c7ec1;
     cursor: pointer;
-    color: #fcd5b5;
+    color: #3c7ec1;
     font-size: 17px;
     padding-top: 10px;
     padding-bottom: 10px;
     transition: all 0.3s;
-    margin-top: -4px;
+    margin-top: 4px;
     font-weight: 700;
+  }
+  .button:hover { 
+    background: #3c7ec1;
+    color: #fcd5b5;
+    
   }
   #faq {
     margin: 0;
