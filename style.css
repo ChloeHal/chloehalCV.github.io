@@ -3,6 +3,7 @@
 body {
     background-color: #fcd5b5 ;
     display: flex;
+    
     font-family: 'poppins';
     overflow: auto;
   }
@@ -195,6 +196,8 @@ body {
     height: auto;
     width: 100%;
   }
+  
+  
  
   @media screen and (max-width: 992px) {
     #faq h2 {
